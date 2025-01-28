@@ -1,0 +1,1 @@
+this is my second project so far, I m still getting used to GIT, I will be updating my observations in this read me file see ya 
